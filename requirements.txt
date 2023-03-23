@@ -1,0 +1,5 @@
+PyQt5~=5.15.7
+gTTS~=2.2.4
+PyPDF2~=2.11.1
+pygame~=2.0.1
+python-docx~=0.8.11
